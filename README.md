@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2> ¡Hola! Soy Jose Yepez.</h2>
 
-<!--
-**ingjoseyepez/ingjoseyepez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 Acerca de mí</h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; Actualmente estoy aprendiendo sobre desarrollo de aplicaciones Laravel.
+- 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+- 💼 &nbsp; Desarrollador Web.
+- ✍️ &nbsp; Leer un buen libro y hacer ejercicios.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Php| Laravel | Java | Spring Boot  
+- 🌐 &nbsp; React| HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Postgresql
+- 🔧 &nbsp; Visual Studio code | Intellij | Git
+- 🖥 &nbsp; Adobe Xd | Photoshop | Figma
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingjoseyepez&show_icons=true&theme=cobalt)
+
+</br>
+
+<h3> 🤝🏻 Conectate conmigo </h3>
+
+<p align="center"> 
+&nbsp; <a href="https://www.linkedin.com/in/jose-yepez-8094a4228/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:ing.joseyepez@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [ingjoseyepez](https://github.com/ingjoseyepez)
