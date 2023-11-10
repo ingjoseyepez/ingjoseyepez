@@ -8,7 +8,7 @@
 - ✍️ &nbsp; Leer un buen libro y hacer ejercicios.
   
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tecnología</h3>
 
 - 💻 &nbsp; Php| Laravel | Java | Spring Boot  
 - 🌐 &nbsp; React| HTML | CSS | JavaScript | Bootstrap 
