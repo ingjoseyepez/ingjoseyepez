@@ -10,7 +10,7 @@
 
 <h3>🛠 Tecnología</h3>
 
-- 💻 &nbsp; Php| Laravel | Java | Spring Boot  
+- 💻 &nbsp; Php| Laravel | Java | SpringBoot  
 - 🌐 &nbsp; React| HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | Postgresql
 - 🔧 &nbsp; Visual Studio code | Intellij | Git
