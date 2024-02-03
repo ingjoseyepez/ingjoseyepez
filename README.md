@@ -11,8 +11,8 @@
 <h3>🛠 Tecnología</h3>
 
 - 💻 &nbsp; Php| Laravel | Java | Spring Boot  
-- 🌐 &nbsp; React| HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Postgresql
+- 🌐 &nbsp; React| HTML | CSS | JavaScript 
+- 🛢 &nbsp; MySQL | Postgresql
 - 🔧 &nbsp; Visual Studio code | Intellij | Git
 - 🖥 &nbsp; Adobe Xd | Photoshop | Figma
 
